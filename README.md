@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Galih Sabilah Rosat
-- 👀 I’m interested in Software Engineering and Cloud Engineering
+- 👀 I’m interested in Web Developer and Data Engineer
 - 🌱 I’m currently learning Front-End Web Development Learning Path
-- 💞️ I’m looking to collaborate on CityCare App project
 - 📫 How to reach me 
 <a href="https://www.instagram.com/galihh.h/" target="_blank">Instagram</a>, and
 <a href="https://www.linkedin.com/in/galih-sabila-rosat-2023b7293/" target="_blank">LinkedIn</a>
